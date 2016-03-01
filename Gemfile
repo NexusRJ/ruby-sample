@@ -5,6 +5,8 @@ source 'https://ruby.taobao.org'
 gem 'rails', '4.2.5.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+# bcrypt to calculate the password hash code
+gem 'bcrypt'
 # Use Bootsrtap-sass
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
