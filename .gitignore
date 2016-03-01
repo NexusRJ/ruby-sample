@@ -19,3 +19,4 @@
 bin/
 lib/
 log/
+.byebug_history
