@@ -1,1 +1,1 @@
-rvm use ruby-2.2.0@blog --create
+rvm use ruby-2.2.0@ruby_sample --create

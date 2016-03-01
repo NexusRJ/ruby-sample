@@ -16,7 +16,5 @@
 !/log/.keep
 /tmp
 .DS_Store
-bin/
-lib/
 log/
 .byebug_history
